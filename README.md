@@ -1,6 +1,6 @@
 DATE CREATED
 
-23.09.19
+06.10.19
 
 PR0JECT TITLE
 
@@ -10,7 +10,7 @@ ISTALLATION
 
 -The code was developed and tested on anaconda with python 3.73
 
--Datasets downloaded from the Airbnb website/data repository and unzipped 
+-Datasets downloaded from the Airbnb website/data repository and unzipped
 
 DESCRIPTION
 
@@ -26,4 +26,3 @@ Calendar.csv
 CREDIT
 
 Airbnb for making their data available!
-
